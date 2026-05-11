@@ -4,8 +4,13 @@
     background-color: black;
 }
 
+#title {
+    margin-bottom: 0;
+}
+
 #navbar {
     display: flex;
+    margin-bottom: 10px;
 }
 
 #navlist {
