@@ -22,3 +22,13 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+
+#contactInfo {
+    display: flex;
+    justify-content: center;
+}
+
+.infoBlock {
+    margin: 20px 80px;
+    text-align: center;
+}
