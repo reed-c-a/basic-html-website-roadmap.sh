@@ -24,6 +24,7 @@ body {
 
 #navlist {
     list-style-type: none;
+    padding: 0;
 }
 
 #navlist li {
